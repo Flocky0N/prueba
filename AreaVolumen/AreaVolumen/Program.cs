@@ -39,18 +39,30 @@ namespace AreaVolumen
 
             Console.Clear();
             Console.WriteLine("Calculando...");
+            Thread.Sleep(1000);
+
+            Console.Clear();
+            Console.WriteLine("Analizando el pensamiento...");
             Thread.Sleep(2000);
+
+            Console.Clear();
+            Console.WriteLine("Procesando en la memoria...");
+            Thread.Sleep(1500);
 
             Console.Clear();
             Console.WriteLine("Recolectando información...");
             Thread.Sleep(2000);
 
             Console.Clear();
-            Console.WriteLine("Creando conexiones neuronales...");
+            Console.WriteLine("Creando redes neuronales...");
             Thread.Sleep(2000);
 
             Console.Clear();
-            Console.WriteLine("Renderizando resultado...");
+            Console.WriteLine("Renderizando conexión cognitiva...");
+            Thread.Sleep(2000);
+
+            Console.Clear();
+            Console.WriteLine("Proyección cerebral casi completa...");
             Thread.Sleep(2000);
 
             Console.Clear();
