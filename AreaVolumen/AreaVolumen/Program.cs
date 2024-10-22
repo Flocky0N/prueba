@@ -7,7 +7,9 @@ namespace AreaVolumen
     {
         static void Main(string[] args)
         {
+            //Declaramos variables
             double AreaCubo, LongitudCubo, VolumenCubo, AreaEsfera, RadioEsfera, VolumenEsfera, VolumenTotal;
+            //Nos permitirá pedir la longitud que posee el cubo
             Console.WriteLine("Ingrese la Longitud del cubo");
             LongitudCubo = double.Parse(Console.ReadLine());
 
